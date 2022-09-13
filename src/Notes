@@ -1,0 +1,51 @@
+OOP - programming based around the concept of objects
+
+Object - contains data in the form of properties and functions (or attributes and methods).
+
+E.g. Car is an object.
+Red colour, four wheels, etc. are properties.
+Drive, reverse, turn, etc. are methods.
+
+Can think of Object-Oriented Programming like A PIE:
+
+
+
+Four pillars of OOP:
+
+Abstraction - only show what's necessary to the user of the object
+i.e. hide away the implementation details inside something
+
+User wants to push a button and the programming to "just work". They don't care about the
+back-end code which makes it work.
+
+
+
+Inheritance - Encourages code reusability by letting one object acquire the properties
+and methods of another object.
+
+Super class / parent class / base class <- subclass / extended class / child class
+
+
+
+Polymorphism
+
+poly = many, morph = forms
+Polymorphism - the ability of a class to run a method in 2 or more different ways
+
+
+
+Encapsulation - built on the idea of data hiding
+            - data hiding - where we restrict access to certain properties or methods of an object
+                                to whatever is calling the object.
+
+
+
+Task : use these four pillars of OOP to create a project with your own examples.
+For example, create classes for Pokemon, football players or mammals.
+
+Task : use these four pillars of OOP to create a project with your own examples.
+For example, create classes for Pokemon or mammals.
+1. Create objects with properties and methods
+2. Create child objects with overriding methods
+3. Demonstrate polymorphism with these methods
+4. Encapsulate the properties of your objects
